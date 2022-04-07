@@ -1,21 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Josefin+Sans:ital,wght@1,300&display=swap");
 
 :root {
-  --ff-head: "Josefin Sans", sans-serif;
-  --ff-other: "Black Ops One", cursive;
+  --ff-head: "Black Ops One", cursive;
+  --ff-other: "Josefin Sans", sans-serif;
 }
 
 body {
   background-image: url(./images/Multibracelet-bured.jpg);
   background-size: cover;
+  font-family: var(--ff-other);
 }
+
 .Header {
   min-height: 10rem;
   background-color: rgba(255, 255, 255, 0.3);
   color: aliceblue;
   font-size: 4rem;
   text-align: center;
-  text-shadow: 0rem 0 1rem rgba(7, 55, 212, 1);
+  text-shadow: 0rem 0 0.5rem rgb(0, 0, 0);
 }
 
 .side-menubar {
@@ -26,17 +28,14 @@ body {
 .store-item {
   background-color: rgba(255, 255, 255, 0.3);
   min-height: 20rem;
-  box-shadow: 0 0 0.5rem rgba(170, 170, 170, 0.621);
   text-align: center;
   color: white;
+  box-shadow: 0 0 1rem black;
 }
 
 .Item-pic {
   width: 10rem;
-}
-
-.box-shadow {
-  box-shadow: rgba(255, 255, 255, 0.549);
+  margin: auto;
 }
 
 .style-img {
@@ -56,4 +55,9 @@ input[type="radio"] {
 .h6 {
   color: white;
   padding: 1rem;
+}
+
+.h1 {
+  font-family: var(--ff-head);
+  font-size: 5rem;
 }

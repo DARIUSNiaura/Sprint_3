@@ -1,6 +1,7 @@
 Project Object:
 Object of this Sprint assigment no.3 was to creat a website, with min. 3 pages using Bootstrap framework or SASS.
-I chose to work with Bootstrap. Also we had to log our commands we had use ir gitbash for adding,commiting, pushing our progress, also for creating new files or folders.
+I chose to creat a online accessories store with bootstrap.
+Also we had to log our commands we had use in gitbash for adding,commiting, pushing our progress, also for creating new files or folders.
 
 Lounching procedure: -->
 In order that all this page would work you need to download all bootstrap library to your root folder.
