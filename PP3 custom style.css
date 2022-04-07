@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Josefin+Sans:ital,wght@1,300&display=swap");
+
+:root {
+  --ff-head: "Josefin Sans", sans-serif;
+  --ff-other: "Black Ops One", cursive;
+}
+
+body {
+  background-image: url(./images/Multibracelet-bured.jpg);
+  background-size: cover;
+}
+.Header {
+  min-height: 10rem;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: aliceblue;
+  font-size: 4rem;
+  text-align: center;
+  text-shadow: 0rem 0 1rem rgba(7, 55, 212, 1);
+}
+
+.side-menubar {
+  min-height: 90vh;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.store-item {
+  background-color: rgba(255, 255, 255, 0.3);
+  min-height: 20rem;
+  box-shadow: 0 0 0.5rem rgba(170, 170, 170, 0.621);
+  text-align: center;
+  color: white;
+}
+
+.Item-pic {
+  width: 10rem;
+}
+
+.box-shadow {
+  box-shadow: rgba(255, 255, 255, 0.549);
+}
+
+.style-img {
+  width: 10rem;
+  height: 10rem;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: white;
+  padding: 1rem;
+}

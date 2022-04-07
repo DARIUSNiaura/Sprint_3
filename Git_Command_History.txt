@@ -1,9 +1,0 @@
-  173  touch Readme.md
-  174  touch PP3_index.html
-  175  npm install bootstrap
-  176  touch .gitignore
-  177  git remote add origin https://github.com/DARIUSNiaura/Sprint_3.git
-  <...>
-  184  touch Git Command History.txt
-  185  touch Git_Command_History.txt
-  186  rm Git Command History.txt  
