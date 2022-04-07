@@ -9,7 +9,7 @@ In order that all this page would work you need to download all bootstrap librar
 1. Creat root folder or just clone all repository to your pc.
 2. Download Bootstrap v5.1.3 (version i used) files from
    www.getbootstrap.com
-3. Download Bootstrap icon package v1.8.1 (was latest) also.
+3. Download Bootstrap icon package v1.8.1 (was latest) also. https://github.com/twbs/icons/releases/latest/
 4. Unzip Bootstrap v5.1.3 files.
 5. Creat "Bootstrap" folder in your root folder or cloned directory.
 6. Copy two folders (CSS and JS) from unzipped Bootstrap v5.1.3 folder to your created "Bootstrap" folder.
